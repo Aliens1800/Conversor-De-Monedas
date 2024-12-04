@@ -14,6 +14,6 @@ el programa se realizo con
 Challenge terminado en 6 semanas, finalizo en diciembre del 2024  
 
 
-Ralizado por Alejandro Rincones
+Realizado por Alejandro Rincones
 Para:
 Alura Latam
